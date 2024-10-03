@@ -1,0 +1,3 @@
+/home/kiryl/CLionProjects/AVAC/cmake-build-debug/CMakeFiles/AVAC.dir
+/home/kiryl/CLionProjects/AVAC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kiryl/CLionProjects/AVAC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
